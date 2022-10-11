@@ -14,3 +14,5 @@ Tipos de arquivos no Git:
 
 
 STAGED() = Disponibel para envio/commit
+
+* TESTE POS CONFIGURACAO DO GIT*
